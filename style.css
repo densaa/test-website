@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background:red;
+	color:white;
+}
+
+.my-column{
+	background: black;
+	text-align: center;
+	min-height: 100px;
+	margin-bottom: 30px;
+}
